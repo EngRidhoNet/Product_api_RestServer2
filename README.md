@@ -1,4 +1,4 @@
-```markdown
+
 # Product API Documentation
 
 This document provides an overview of the Product API, which allows for CRUD (Create, Read, Update, Delete) operations on products.
